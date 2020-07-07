@@ -4,3 +4,4 @@ C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Sirenhead\AnimalProd
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Sirenhead\AnimalProduct\obj\Debug\AnimalProduct.csproj.CopyComplete
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Sirenhead\AnimalProduct\obj\Debug\AnimalProduct.dll
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Sirenhead\AnimalProduct\obj\Debug\AnimalProduct.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Sirenhead\AnimalProduct\obj\Debug\AnimalProduct.csprojAssemblyReference.cache

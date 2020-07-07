@@ -31,14 +31,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Class1 - Copy.cs" />
-    <Compile Include="Class1.cs" />
-    <Compile Include="HediffCompProperties_Spawner.cs" />
+    <Compile Include="Setup.cs" />
+    <Compile Include="HediffComp_Poop.cs" />
+    <Compile Include="HediffCompProperties_Boom.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="AlienPartGenerator\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Reference Include="AlienRace">
       <HintPath>..\..\..\..\..\workshop\content\294100\839005762\1.1\Assemblies\AlienRace.dll</HintPath>
